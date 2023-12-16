@@ -1,2 +1,1 @@
-# Ridoy-IP-TV-
-Personal IP TV 
+# Ridoy-IP-TV
