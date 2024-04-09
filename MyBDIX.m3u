@@ -1,127 +1,25 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png"group-title="Bangla",Ekattor TV
-http://tv.elaach.com/hls/71.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"group-title="Bangla",Travelxp
-http://tv.elaach.com/hls/travelxp.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png"group-title="Bangla",GTV
-http://tv.elaach.com/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/180px-Sony_Aath_new.png"group-title="Bangla",Sony Aath
-http://tv.elaach.com/hls/Sony_Aath.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png"group-title="Bangla",Independent Television
-http://tv.elaach.com/hls/indepen.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png"group-title="Bangla",Duronto TV
-http://tv.elaach.com/hls/d.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg"group-title="Bangla",Enterr10 Bangla
-http://tv.elaach.com/hls/enterr10.m3u8
-#EXTINF:-1 tvg-logo="https://sangeetbangla.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png"group-title="Bangla",Sangeet Bangla
-http://tv.elaach.com/hls/sangeetbangla.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/250px-Star_Jalsha_logo_2023.png"group-title="Bangla",Star Jalsha
-http://tv.elaach.com/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png"group-title="Bangla",Zee Bangla
-http://tv.elaach.com/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/170px-Colors_Bangla.png"group-title="Bangla",Colors Bangla
-http://tv.elaach.com/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg"group-title="Bangla",Star Jalsha Movies
-http://tv.elaach.com/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png"group-title="Bangla",Colors Bangla Cinema
-http://tv.elaach.com/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Zee_Bangla_Cinema.jpeg/200px-Zee_Bangla_Cinema.jpeg"group-title="Bangla",Zee Bangla Cinema
-http://tv.elaach.com/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sun_Bangla.png/170px-Sun_Bangla.png"group-title="Bangla",Sun Bangla
-http://tv.elaach.com/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png"group-title="Bangla",Channel i
-http://tv.elaach.com/hls/channeli.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png"group-title="Bangla",সময় টিভি
-http://tv.elaach.com/hls/somoy.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg"group-title="Bangla",Maasranga Television
-http://tv.elaach.com/hls/masranga.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png"group-title="English",Sony Pix
-http://tv.elaach.com/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png"group-title="English",Movies Now
-http://tv.elaach.com/hls/movies-now.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png"group-title="English",STAR Movies
-http://tv.elaach.com/hls/starmovies.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png"group-title="English",BBC Earth
-http://tv.elaach.com/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg"group-title="English",Mn+
-http://tv.elaach.com/hls/mn+.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1024px-2018_Animal_Planet_logo.svg.png"group-title="English",Animal Planet
-http://tv.elaach.com/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg"group-title="English",Discovery Channel
-http://tv.elaach.com/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"group-title="English",Nat Geo HD
-http://tv.elaach.com/hls/ngohd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Wild_TV_logo_2020.png"group-title="English",Wild TV
-http://tv.elaach.com/hls/wild.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/180px-STAR_World.svg.png"group-title="English",Star World
-http://tv.elaach.com/hls/star-worldhd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg"group-title="English",Mn+ HD
-http://tv.elaach.com/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/BBC_World_News_red.svg"group-title="English",BBC World News
-http://tv.elaach.com/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%26pictures.png"group-title="Hindi",And Pictures
-http://tv.elaach.com/hls/andpictures.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/924px-Colors_TV_logo.svg.png"group-title="Hindi",Colors Tv HD
-http://tv.elaach.com/hls/colore-tv-hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png"group-title="Hindi",Zee Ceneam HD
-http://tv.elaach.com/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"group-title="Hindi",Star Plus HD
-http://tv.elaach.com/hls/starplus.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png"group-title="Hindi",Colors Cineplex HD
-http://tv.elaach.com/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Sony_TV_new.png/150px-Sony_TV_new.png"group-title="Hindi",Sony Entertainment
-http://tv.elaach.com/hls/sonyen.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/150px-Sony_Max_new.png"group-title="Hindi",Sony Max HD
-http://tv.elaach.com/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png"group-title="Hindi",Zee Tv
-http://tv.elaach.com/hls/zeetv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg"group-title="Hindi",9xm
-http://tv.elaach.com/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Sony_six_logo_460.jpg"group-title="Sports",Sony Six
-http://tv.elaach.com/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/200px-Star_Sports_Network.png"group-title="Sports",Star Sports 3
-http://tv.elaach.com/hls/starsports3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/200px-Star_Sports_Network.png"group-title="Sports",Star Sports Select 1 HD
-http://tv.elaach.com/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/200px-Star_Sports_Network.png"group-title="Sports",Star Sports 1 HD
-http://tv.elaach.com/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/200px-Star_Sports_Network.png"group-title="Sports",Star Sports 2 HD
-http://tv.elaach.com/hls/starsports2.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png"group-title="Sports",Sony Ten 3
-http://tv.elaach.com/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/200px-Star_Sports_Network.png"group-title="Sports",Star Sports Select 2 HD
-http://tv.elaach.com/hls/select2.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png"group-title="Sports",Sony Ten 2
-http://tv.elaach.com/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png"group-title="Sports",Sony Ten 1
-http://tv.elaach.com/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/291685266_471574754970865_6374952514259708701_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=69tEsVXYRKwAX8i7h2Q&_nc_ht=scontent.frjh4-1.fna&oh=00_AfBfcclY4M8wOj9hm80SNJ13T3PtrUFPyqWsTFWK7kdi4g&oe=65809848"group-title="Sports",PTV
-http://tv.elaach.com/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png"group-title="Sports",Sports 18
-http://tv.elaach.com/hls/18.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png"group-title="Kids",Sony Way
-http://tv.elaach.com/hls/sonyway.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/512px-Nick_logo_2009.svg.png"group-title="Kids",Nick
-http://tv.elaach.com/hls/nick.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/356862504_675501267940096_6459400862268167355_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=3qMjZSleCHMAX9o_mtr&_nc_ht=scontent.frjh4-1.fna&oh=00_AfAIN6ZSHe54f3SVhVUQNJl0oFmPJ6ixXPz9gPW5r_wX6w&oe=6581CA46"group-title="Others",Madani
-http://tv.elaach.com/hls/madani.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/293345373_362908795957916_7808672704798130214_n.png?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=H8BLiUgJ5lgAX8t6det&_nc_ht=scontent.frjh4-1.fna&oh=00_AfCpiPJ2tF_gMyYOIPFb6zENr-CvBwI9VLwq8xDaD0bw6A&oe=65821972"group-title="Others",QuranTV
-http://tv.elaach.com/hls/qurqntv.m3u8
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-logo=""group-title="",
-
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Somoy_TV_logo.png/180px-Somoy_TV_logo.png" group-title="All Channel",Somoy TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712662519/ei/l9MUZtr8GK_hz7sPieukwAU/ip/103.156.56.53/id/e_BQWtx15qI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f296UrJOO1CvJpbbv870wFz_A8gXqQtgzpTByvtKu1MOJDXRJ0xkjK6wOPbRfrMHF4k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI7y_v8-xeUq3Ijv64d9NuoyIQZqQgpIHExnu9umYIxLAiEAy0TF4toH-ERMuXXPmWAu5NLQFh14vmD1e7CH5UlIbeA%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" group-title="All Channel",Ekattor TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712663079/ei/x9UUZt_cAsbL3LUPmsiW8AY/ip/103.156.56.53/id/IiIygtP_-Z0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f0zFK7ZSFHPJoPfqYVQtQfnwIr4OQUJaQxJwOPd9pALe8O5t7b6J8mt0hJdcxwwDd6M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIMQPv6hEU7h1tkdeF4jgDKbzuA0_SrdnIaRUcth0ylqAiBjLv65GqNRi_LQvyV2FJ9K57Ziktg5lsizbMtXuJ6jLA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/200px-Channel24logo.svg.png" group-title="All Channel",Channel 24
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712663495/ei/Z9cUZpn4FsXd4t4PssWlgAY/ip/103.156.56.53/id/SOUt2eeU4ig.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fz2j4qT-V-N2lqHhhuIFnfvPuDt4H-stLclE7lOtHK0Zh2GeqEiVhU-zxlGXP4M2EWM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPWYdzKYsXqtH38xsW8vn1kMEmCLjK-j0-jBWPw-VNVQCIHZ--aQu5JC_VV6EFfuIIWjx4Gkyxjy1irYPuOelpk7U/file/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="All Channel",INDEPENDENT TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712663685/ei/JdgUZv2aKpHEjuMPyvuSwA4/ip/103.156.56.53/id/suSPQSFq8S4.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f1vQEq5IQsog93W3BnyZzY-sx5rR3zul0_jvsAN4dI9a0FkiITC6jN_vQb3nA5-L_JU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYAOlnRO1hmdCVx9AvBmg3HWv38xvqd7o_Oyh0PNM3LYCIQCo0FeyChccxnY_1qJIRz2XeFe8PMeyl0GIPVBP1DiwkA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/220px-Ekhon_Logo.png" group-title="All Channel",EKHON TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712663832/ei/uNgUZp_6Nsed3LUP492aIA/ip/103.156.56.53/id/KRg6skX01so.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fz5uqoixlNOC4JkyMgk5eTJdQ_jUYmLLcsTc0QAD0z7oUXI-QzUIsDhvh0ksxQB8y6A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPmBBt9dkQYsWVbl9Ccv-AnU9ZeoQMrV4sD2mlUj8s7XAiBRZpxnjYc1lEcmvV5pNhU6MG3o_gi6SAcqDOloRvEwSw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/120px-Banglavision.svg.png" group-title="All Channel",BanglaVision TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712663934/ei/HtkUZuDbIYTnjuMPrvKJiAg/ip/103.156.56.53/id/swRhx6JcZ88.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f6MlBtvbyTGDKZLDrgLzD-ef5MRTXIhS3phO6N-p35WsGeFVeNyyvrP6sTvGagamx00/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANfFedLa92JR8nRLKc5sn0SPf6iZe2TSl_UFxW0pxmFtAiEAwBUbUzg7PeElOtadF8V2_vgzEXkd5bLgKtHI9MSdWeY%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="All Channel",ATN News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712664093/ei/vdkUZtnBKbnMjuMP9sWQ2AU/ip/103.156.56.53/id/c67_sK-EU1g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f_BmJrMxGypaqdeC6wd9EzFPcJe7AF-_LumtcoP9TLkKF4yuCyxweKRx0uE7b1K_1wQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANhxf49Rf4ZUZz3CyP_nxcm3heyEvcxHsKQvHKH5LiCVAiEApxNd13TorkbBMYmqIh29oBLgMbFs4Kv5Z3ifiyZi5P0%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/240px-Rtv_bangladesh.svg.png" group-title="All Channel",Rtv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712664207/ei/L9oUZrO7DYKKjuMPnNu8uA4/ip/103.156.56.53/id/pHoWD51ZhtI.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f1ULUxBfAYYxX-FdtiLXY6c-Jw9lQtci2fe3OW9xtFHDtJrocfeY59OGHSCUWIQswYI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgXd7xtEMZQiMwK_XHBRZ-NpWrZRmV0ql63L-S32_GqYcCIBX4fZIziXWloK4ZizFlGOwPYm1rsIA1fTRwzNoBxGJD/file/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="All Channel",JAMUNA TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712664361/ei/ydoUZqaVHOPw4t4P8IuW2AQ/ip/103.156.56.53/id/EYd-9qjsI_k.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f9Dmtlq3BDmyl8SYsVx_HUr_hrleMni1pTF5lMFn-y3dI_4JhaBvOywncJaWL1u_1rc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOxx49rfzWwMXyP5u2Fhhg233lnujOyykEa_hgQs7m70AiBmMY5Y-Tm7ZBLhL_lLmx2K-J5U5xDNxI27pkr7jAwa6Q%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/192px-Channel-i.svg.png" group-title="All Channel",Channel i
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712664529/ei/cdsUZtyLCZOc4t4P7Puv0AI/ip/103.156.56.53/id/eqFbPey0Ohw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxkT-v90fSvTPcngJBzxlGGIsf_0nl69np-vtu3Uo5ZeMluxTK4h7VAZdjuMRez2c1k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIvewpsYVGyCoJDwo8YwYxjd4sgX05xLTC7MTOL_pXiJAiEAxgyiGNOoiBAYIMRmhYx7GIIKlfObrsb0uZq8-RmnHac%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/250px-DBC_News_Logo.svg.png" group-title="All Channel",DBC NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712664925/ei/_dwUZuKuG-zNjuMPiK2xiA4/ip/103.156.56.53/id/Sh66Zurop2U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f3sA4Xj2gew9Jhn_ki4ZzDnb1xH6H7ZBQfGzd9Eooj1hwuSGjborPd2A1H_KrkgGM08/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMl3ZKq9VQyPZcu9Yv4yvsGvmFyQ754TeMOlYqA40kqqAiBvfGja9_ENQ4J_2bRrcmCGQkygAISymXoc8rNvp2YxHA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="All Channel", NTV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712665207/ei/F94UZuijF9rB4t4Py-unqA4/ip/103.156.56.53/id/bX3hSzi8r94.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxAObOXelrV3DT2kL3xxYJb9LyCbzOXKowTxc4aK61DgegvNwEATc9Bwinrx31RvFOw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNrp9QrDrVxctiU6vMQtyiz10a3UOYL88e4mBFv_fLUoCIQCk0Y9hj_iH9kj3l8y9hSnKCqCuNenbgQrcOtsDLbrD7g%3D%3D/file/index.m3u8
