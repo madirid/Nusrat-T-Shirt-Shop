@@ -5,7 +5,7 @@ http://176.119.29.52/live/00:1A:79:50:31:74/B5888A04FEE6A/237.m3u8
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="ISLAMIC CHANNELS",DEEN TV
 https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="ISLAMIC CHANNELS", IQRA BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="ISLAMIC CHANNELS", IQRA 
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="ISLAMIC CHANNELS",ATN ISLAMIC TV
 https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
@@ -21,7 +21,7 @@ https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="LIVE EVENT CHANNELS", T Sports HD 
 http://103.77.218.14:8082/Tsports-2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png"group-title="INDIAN BANGLA CHANNELS",Star Jalsha HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png"group-title="INDIAN  CHANNELS",Star Jalsha HD
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png"group-title="INDIAN BANGLA CHANNELS",Zee Bangla HD
 http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
@@ -83,7 +83,7 @@ https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 https://livess.ncare.live/live-orgin/b24c.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",Banglavision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLAps://i.ibb.co/bvJByBV/IMG-20240126-112413.jpg",Bijoy TV
+#EXTINF:-1 group-title="BANGLA"https://i.ibb.co/bvJByBV/IMG-20240126-112413.jpg",Bijoy TV
 https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/SQyR6TT/IMG-20240126-092532.png",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
