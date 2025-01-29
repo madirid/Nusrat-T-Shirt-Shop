@@ -300,8 +300,34 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     checkoutBtn.addEventListener('click', () => {
+        // Check if user is logged in
+        const currentUser = JSON.parse(localStorage.getItem(STORAGE_KEYS.CURRENT_USER));
+        
+        if (!currentUser) {
+            // Show login modal with a message
+            alert('Please login to proceed with checkout');
+            toggleCartModal(false);
+            toggleLoginModal(true);
+            
+            // Add a message in the login modal
+            const loginMessage = document.createElement('div');
+            loginMessage.className = 'text-sm text-blue-600 mb-4';
+            loginMessage.textContent = 'Please login to complete your purchase';
+            loginForm.insertBefore(loginMessage, loginForm.firstChild);
+            
+            return;
+        }
+
+        // If logged in, proceed with checkout
         toggleCartModal(false);
         toggleCheckoutModal(true);
+        
+        // Pre-fill checkout form with user data
+        const checkoutForm = document.getElementById('checkout-form');
+        checkoutForm.elements['fullName'].value = currentUser.fullName || '';
+        checkoutForm.elements['email'].value = currentUser.email || '';
+        checkoutForm.elements['phone'].value = currentUser.phone || '';
+        checkoutForm.elements['address'].value = currentUser.address || '';
     });
 
     // Show/hide checkout modal
@@ -411,17 +437,27 @@ document.addEventListener('DOMContentLoaded', () => {
     loginForm.addEventListener('submit', async (e) => {
         e.preventDefault();
         const formData = new FormData(loginForm);
-        const email = formData.get('email');
-        const password = formData.get('password');
-
+        
         try {
-            const user = DataService.loginUser(email, password);
+            const user = DataService.loginUser(formData.get('email'), formData.get('password'));
             if (user) {
-                alert('Login successful!');
-                toggleLoginModal(false);
                 updateLoginStatus();
+                toggleLoginModal(false);
+                
+                // Check if there are items in cart
+                const cart = DataService.getCart();
+                if (cart.length > 0) {
+                    toggleCheckoutModal(true);
+                    
+                    // Pre-fill checkout form
+                    const checkoutForm = document.getElementById('checkout-form');
+                    checkoutForm.elements['fullName'].value = user.fullName || '';
+                    checkoutForm.elements['email'].value = user.email || '';
+                    checkoutForm.elements['phone'].value = user.phone || '';
+                    checkoutForm.elements['address'].value = user.address || '';
+                }
             } else {
-                alert('Invalid email or password');
+                alert('Invalid credentials');
             }
         } catch (error) {
             alert(error.message);
