@@ -9,106 +9,50 @@ const STORAGE_KEYS = {
 };
 
 // Initial product data
-const initialProducts = [
-    {
-        id: 1,
-        name: "Men's Classic T-Shirt",
-        category: "Men's",
-        price: 599,
-        description: "Comfortable cotton t-shirt for everyday wear",
-        images: ['assets/products/mens-classic-tee.jpg'],
-        stock: 50
-    },
-    {
-        id: 2,
-        name: "Men's Polo Shirt",
-        category: "Men's",
-        price: 899,
-        description: "Premium polo shirt for a smart casual look",
-        images: ['assets/products/mens-polo.jpg'],
-        stock: 30
-    },
-    {
-        id: 3,
-        name: "Women's Summer Dress",
-        category: "Women's",
-        price: 1299,
-        description: "Lightweight summer dress with floral pattern",
-        images: ['assets/products/womens-dress.jpg'],
-        stock: 25
-    },
-    {
-        id: 4,
-        name: "Women's Casual Tee",
-        category: "Women's",
-        price: 499,
-        description: "Soft and stylish casual t-shirt",
-        images: ['assets/products/womens-tee.jpg'],
-        stock: 40
-    },
-    {
-        id: 5,
-        name: "Kid's Cartoon T-Shirt",
-        category: "Kid's",
-        price: 399,
-        description: "Fun and colorful cartoon print t-shirt",
-        images: ['assets/products/kids-tee.jpg'],
-        stock: 35
-    },
-    {
-        id: 6,
-        name: "Kid's School T-Shirt",
-        category: "Kid's",
-        price: 449,
-        description: "Durable school wear t-shirt",
-        images: ['assets/products/kids-school.jpg'],
-        stock: 45
-    },
-    {
-        id: 7,
-        name: "Custom Print T-Shirt",
-        category: "Custom's",
-        price: 799,
-        description: "Design your own custom printed t-shirt",
-        images: ['assets/products/custom-tee.jpg'],
-        stock: 100
-    },
-    {
-        id: 8,
-        name: "Custom Embroidered T-Shirt",
-        category: "Custom's",
-        price: 999,
-        description: "Premium embroidered custom t-shirt",
-        images: ['assets/products/custom-embroidered.jpg'],
-        stock: 20
-    }
-];
+// const initialProducts = [ ... ]; // Remove this
 
 // Initial admin user
-const initialAdminUser = {
-    email: 'admin@example.com',
-    password: 'admin123', // In real application, this should be hashed
-    role: 'admin'
-};
+// const initialAdminUser = { ... }; // Remove this
 
 // Initialize local storage with data if empty
-function initializeData() {
+const initializeData = () => {
+    // Only initialize products if they don't exist
     if (!localStorage.getItem(STORAGE_KEYS.PRODUCTS)) {
-        localStorage.setItem(STORAGE_KEYS.PRODUCTS, JSON.stringify(initialProducts));
+        localStorage.setItem(STORAGE_KEYS.PRODUCTS, JSON.stringify([]));
     }
+
+    // Initialize other storage items if they don't exist
     if (!localStorage.getItem(STORAGE_KEYS.USERS)) {
         localStorage.setItem(STORAGE_KEYS.USERS, JSON.stringify([]));
     }
+
     if (!localStorage.getItem(STORAGE_KEYS.ORDERS)) {
         localStorage.setItem(STORAGE_KEYS.ORDERS, JSON.stringify([]));
     }
-    if (!localStorage.getItem(STORAGE_KEYS.ADMIN_USERS)) {
-        localStorage.setItem(STORAGE_KEYS.ADMIN_USERS, JSON.stringify([initialAdminUser]));
-    }
+
     if (!localStorage.getItem(STORAGE_KEYS.CART)) {
         localStorage.setItem(STORAGE_KEYS.CART, JSON.stringify([]));
     }
-}
+
+    // Initialize admin users if they don't exist
+    if (!localStorage.getItem(STORAGE_KEYS.ADMIN_USERS)) {
+        const adminUsers = [
+            {
+                email: 'mdmahdiouzzamanridoy@gmail.com',
+                password: '17106014',
+                role: 'admin',
+                name: 'Mahdi'
+            },
+            {
+                email: 'nusrat122436@gmail.com',
+                password: '122436',
+                role: 'admin',
+                name: 'Nusrat'
+            }
+        ];
+        localStorage.setItem(STORAGE_KEYS.ADMIN_USERS, JSON.stringify(adminUsers));
+    }
+};
 
 // Data management service
 const DataService = {
@@ -157,7 +101,7 @@ const DataService = {
     },
 
     // User functions
-    getAllUsers: () => JSON.parse(localStorage.getItem(STORAGE_KEYS.USERS)),
+    getAllUsers: () => JSON.parse(localStorage.getItem(STORAGE_KEYS.USERS)) || [],
     
     registerUser: (user) => {
         const users = DataService.getAllUsers();
