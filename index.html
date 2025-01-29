@@ -272,23 +272,25 @@
                     <!-- Cart items will be dynamically inserted here -->
                 </div>
                 <div class="border-t pt-4">
-                    <div class="flex justify-between items-center mb-2">
-                        <span>Subtotal:</span>
-                        <span id="cart-subtotal" class="font-bold">0 BDT</span>
+                    <div class="flex justify-between items-center mb-4">
+                        <span class="text-lg font-semibold">Subtotal:</span>
+                        <span id="cart-subtotal" class="text-lg font-bold">0 BDT</span>
                     </div>
                     <div class="flex justify-between items-center mb-4">
-                        <span>Delivery Charge:</span>
-                        <span class="font-bold">120 BDT</span>
+                        <span class="text-lg font-semibold">Delivery Charge:</span>
+                        <span class="text-lg">120 BDT</span>
                     </div>
-                    <div class="flex justify-between items-center mb-6 text-lg font-bold">
-                        <span>Total:</span>
-                        <span id="cart-total">0 BDT</span>
+                    <div class="flex justify-between items-center mb-6">
+                        <span class="text-xl font-bold">Total:</span>
+                        <span id="cart-total" class="text-xl font-bold">0 BDT</span>
                     </div>
                     <button id="checkout-btn" 
-                            class="w-full bg-green-500 text-white py-3 rounded-lg hover:bg-green-600 disabled:opacity-50"
-                            disabled>
+                            class="w-full bg-green-500 text-white py-3 rounded-lg hover:bg-green-600 transition-colors duration-300">
                         Proceed to Checkout
                     </button>
+                    <p class="text-sm text-gray-500 text-center mt-2">
+                        Login required for checkout
+                    </p>
                 </div>
             </div>
         </div>
