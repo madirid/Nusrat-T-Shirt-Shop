@@ -22,15 +22,36 @@ document.addEventListener('DOMContentLoaded', () => {
         const email = document.getElementById('admin-email').value;
         const password = document.getElementById('admin-password').value;
 
-        // Check against admin credentials
-        const adminUsers = JSON.parse(localStorage.getItem(STORAGE_KEYS.ADMIN_USERS)) || [];
-        const adminUser = adminUsers.find(user => user.email === email && user.password === password);
+        // Set admin users first
+        const adminUsers = [
+            {
+                email: 'mdmahdiouzzamanridoy@gmail.com',
+                password: '17106014',
+                role: 'admin',
+                name: 'Mahdi'
+            },
+            {
+                email: 'nusrat122436@gmail.com',
+                password: '122436',
+                role: 'admin',
+                name: 'Nusrat'
+            }
+        ];
+        
+        localStorage.setItem(STORAGE_KEYS.ADMIN_USERS, JSON.stringify(adminUsers));
+
+        // Then check credentials against admin users
+        const adminUser = adminUsers.find(user => 
+            user.email === email && 
+            user.password === password && 
+            user.role === 'admin'
+        );
 
         if (adminUser) {
             localStorage.setItem(STORAGE_KEYS.CURRENT_USER, JSON.stringify(adminUser));
             checkAuth();
         } else {
-            alert('Invalid credentials');
+            alert('Invalid admin credentials');
         }
     });
 
